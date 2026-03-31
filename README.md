@@ -61,7 +61,12 @@ A machine learning project that predicts whether a bank customer will leave or s
 ---
 
 ## 📜 Certifications
-- Machine Learning / Python Courses (Coursera / Online Platforms)
+-Machine Learning Specialization — DeepLearning.AI (Andrew Ng)
+-Mastering Programming with MATLAB — MathWorks
+-Modeling and Simulation with Simulink — MathWorks
+-Data Analysis with Python — freeCodeCamp
+-Data Analysis and Visualization with Python — Microsoft
+-Arduino Bootcamp — United Latino Students Association
 
 ---
 

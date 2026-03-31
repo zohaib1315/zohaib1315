@@ -85,7 +85,7 @@ I am open to:
 
 ## 📫 Contact
 - GitHub: https://github.com/yourusername  
-- LinkedIn: nkedin.com/in/zohaib-mughal-43321a325/  
+- LinkedIn: linkedin.com/in/zohaib-mughal-43321a325/  
 - Fiverr: https://www.fiverr.com/mughal13105?public_mode=true  
 
 ---

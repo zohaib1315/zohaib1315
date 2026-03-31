@@ -1,35 +1,39 @@
 # Zohaib Ahmed Mughal
-Electrical Engineering Student | Machine Learning Enthusiast | Data & AI Projects
+Electrical Engineering Student | Machine Learning & Deep Learning Enthusiast | AI, Data & Embedded Systems
 
 ---
 
 ## 👋 Introduction
-Hi, I am Zohaib Ahmed Mughal, an Electrical Engineering student at University of Engineering and Technology,Taxila with a strong interest in machine learning, data analysis, and AI-driven systems. I enjoy building practical projects that combine software development with intelligent data-driven decision making.
+Hi, I am Zohaib Ahmed Mughal, an Electrical Engineering student at the University of Engineering and Technology, Taxila. I have a strong interest in machine learning, deep learning, and intelligent systems, along with a solid foundation in circuit design and engineering tools.
 
-Currently, I am focused on developing machine learning and deep learning models, working with real-world datasets, and deploying interactive applications. I am actively looking for opportunities to apply my skills in internships, freelance work, and collaborative projects.
+I enjoy building practical projects that combine software development, data analysis, and hardware-level understanding to solve real-world problems.
+
+Currently, I am focused on developing machine learning and deep learning models, working with real-world datasets, and designing engineering systems using tools like MATLAB and Simulink. I am actively seeking opportunities for internships, freelance work, and collaborative projects.
 
 ---
 
 ## 🎓 About Me
-- **Education:** Electrical Engineering Student  
-- **Core Interests:** Machine Learning, Data Science, Deep Learning, Automation  
-- **Focus Areas:** Model Building, Data Analysis, Visualization, Deployment  
-- **Looking For:** Internships, freelance projects, and collaborations  
+- **Education:** Electrical Engineering Student (UET Taxila)  
+- **Core Interests:** Machine Learning, Deep Learning, Circuit Design, Embedded Systems  
+- **Focus Areas:** AI Model Development, Data Analysis, Simulation, System Design  
+- **Looking For:** Internships, freelance projects, and research collaborations  
 
 ---
 
 ## 🛠️ Languages & Tools
-- **Programming:** Python, C++  
-- **Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib  
-- **Tools:** Git, GitHub, Streamlit, Jupyter Notebook, Google Colab 
+- **Programming:** Python, C++, MATLAB  
+- **Libraries & Frameworks:** NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib  
+- **Engineering Tools:** Simulink, Proteus (Circuit Design & Simulation)  
+- **Platforms & Tools:** Git, GitHub, Streamlit, Jupyter Notebook, Google Colab  
 
 ---
 
 ## 💡 Skills
-- Data Cleaning & Preprocessing  
-- Machine Learning Model Development  
-- Deep Learning (Neural Networks)  
-- Data Visualization  
+- Machine Learning & Deep Learning (Neural Networks, Model Optimization)  
+- Data Cleaning, Preprocessing & Feature Engineering  
+- Data Visualization & Insight Generation  
+- Circuit Design & Electronic System Analysis  
+- MATLAB & Simulink Modeling and Simulation  
 - Model Evaluation (Accuracy, F1-score, etc.)  
 
 ---
@@ -43,14 +47,14 @@ A machine learning project that predicts whether a bank customer will leave or s
 - Performed data preprocessing and feature engineering  
 - Trained and optimized models using Grid Search  
 - Evaluated performance using F1-score and accuracy  
-- Built a clean and structured ML pipeline  
+- Built a clean and modular ML pipeline  
 
 🔗 Repository: https://github.com/yourusername/project-link  
 
 ---
 
 ## 📊 Education
-- **BSc Electrical Engineering**  
+- **BSc Electrical Engineering** — UET Taxila  
 - Intermediate (Pre-Engineering)  
 - Matriculation (Science)  
 
@@ -62,10 +66,11 @@ A machine learning project that predicts whether a bank customer will leave or s
 ---
 
 ## 🎯 Current Focus
-- Improving deep learning and neural network architectures  
-- Building real-world ML projects with deployment  
-- Learning advanced data visualization techniques  
-- Creating portfolio projects for freelance platforms (Fiverr, Upwork)  
+- Advancing deep learning and neural network architectures  
+- Building real-world AI and ML projects with deployment  
+- Strengthening MATLAB and Simulink for system modeling  
+- Integrating software models with hardware-based systems  
+- Developing portfolio projects for Fiverr and freelance platforms  
 
 ---
 
@@ -74,13 +79,13 @@ I am open to:
 - Internships  
 - Freelance projects  
 - Research collaborations  
-- Machine Learning / Data Science work  
+- Machine Learning, Deep Learning, and Electrical Engineering projects  
 
 ---
 
 ## 📫 Contact
 - GitHub: https://github.com/yourusername  
-- LinkedIn: [Add your link]  
-- Fiverr: [Add your link]  
+- LinkedIn: nkedin.com/in/zohaib-mughal-43321a325/  
+- Fiverr: https://www.fiverr.com/mughal13105?public_mode=true  
 
 ---

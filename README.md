@@ -1,10 +1,10 @@
-# Zohaib Mughal
+# Zohaib Ahmed Mughal
 Electrical Engineering Student | Machine Learning Enthusiast | Data & AI Projects
 
 ---
 
 ## 👋 Introduction
-Hi, I am Zohaib Mughal, an Electrical Engineering student with a strong interest in machine learning, data analysis, and AI-driven systems. I enjoy building practical projects that combine software development with intelligent data-driven decision making.
+Hi, I am Zohaib Ahmed Mughal, an Electrical Engineering student with a strong interest in machine learning, data analysis, and AI-driven systems. I enjoy building practical projects that combine software development with intelligent data-driven decision making.
 
 Currently, I am focused on developing machine learning and deep learning models, working with real-world datasets, and deploying interactive applications. I am actively looking for opportunities to apply my skills in internships, freelance work, and collaborative projects.
 
